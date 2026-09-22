@@ -9,10 +9,12 @@ I'm a Master's student in the Maki Laboratory, Institute of Industrial Science, 
 #### Education  
 <p style="display:flex;justify-content:space-between;align-items:baseline;margin:0 0 2px;"><span><strong>The University of Tokyo</strong>, M.S. (in progress), Maki Lab, IIS</span><span style="color:#888;white-space:nowrap;padding-left:1.5em;">2025 – 2027 (expected)</span></p>
 • Coursework: Top grade in all graduate courses to date.
+
 • Research: Heterogeneous multi-vehicle cooperative survey method for sparse sea floor target. 
 
 <p style="display:flex;justify-content:space-between;align-items:baseline;margin:8px 0 2px;"><span><strong>Zhejiang University</strong>, B.Eng. in Ocean Engineering and Technology</span><span style="color:#888;white-space:nowrap;padding-left:1.5em;">2020 – 2024</span></p>  
 • GPA: 3.81 / 4.0 (major-course GPA 3.94 / 4.0)  
+
 • Research: Design of Precise Line Patrol Navigation System for A Disc Type Autonomous Underwater Helicopter.
 
 #### Research Interests  
