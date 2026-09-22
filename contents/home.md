@@ -4,6 +4,7 @@ I'm a Master's student in the Maki Laboratory, Institute of Industrial Science, 
 
 #### Email  
 <code>jinyutong6362@gmail.com</code>
+
 <code>jytong@iis.u-tokyo.ac.jp</code>
 
 #### Education  
@@ -16,6 +17,7 @@ I'm a Master's student in the Maki Laboratory, Institute of Industrial Science, 
 • GPA: 3.81 / 4.0 (major-course GPA 3.94 / 4.0)  
 
 • Research: Design of Precise Line Patrol Navigation System for A Disc Type Autonomous Underwater Helicopter.
+
 
 #### Research Interests  
 Robotics, underwater navigation and path planning, multi-robot cooperative systems, reinforcement learning for robot motion and control.

@@ -12,7 +12,7 @@ A heterogeneous multi-AUV cooperative survey system for detecting sparse discret
 ---
 
 ### **Multi-AUV Formation Generation & Control**  
-**August 2025 – April 2026 | Master's project, Maki Lab, The University of Tokyo**  
+**August 2025 – April 2026 | Master's research , Maki Lab, The University of Tokyo**  
 
 A reinforcement-learning approach to reducing trajectory distortion of AUV formations during high-maneuverability turns.
 
@@ -30,7 +30,7 @@ Open-sea AUV self-localization task (team of 5) targeting 100 m of straight-line
 
 #### Key Contributions:  
 - Helped implement USV–AUV acoustic positioning and particle-filter dead-reckoning.  
-- Ran AUV tank experiments and open-sea deployment tests.  
+- Be responsible for AUV tank experiments and open-sea deployment tests.  
 - Result: selected and completed.  
 
 ---
