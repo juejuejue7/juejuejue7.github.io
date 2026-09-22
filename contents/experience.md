@@ -1,21 +1,42 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Multi-AUV Cooperative Detection System**  
+**March 2026 – present | Master's thesis, Maki Lab, The University of Tokyo**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+A heterogeneous multi-AUV cooperative survey system for detecting sparse discrete targets on the deep seafloor (hydrothermal vents, shipwrecks), based on a Leader-Follower architecture: a Leader AUV performs wide-area acoustic scanning while Follower AUVs carry out close-range optical confirmation.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Proposed a Leader-Follower parallel cooperative architecture that removes the reliance on prior survey data and improves task time-efficiency.  
+- Built a multi-AUV simulation environment on Stonefish ROS 2 to validate feasibility.  
+- Constructed task scenarios from real hydrothermal-field multibeam bathymetry; benchmarked against online-VRP, traditional global planning, and lawnmower baselines.  
+- Reproduced planned paths on a real AUV for physical feasibility validation.  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **Multi-AUV Formation Generation & Control**  
+**August 2025 – April 2026 | Master's project, Maki Lab, The University of Tokyo**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+A reinforcement-learning approach to reducing trajectory distortion of AUV formations during high-maneuverability turns.
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### Key Contributions:  
+- Proposed a SAC-based waypoint-filtering method in which an RL agent filters distorted waypoints, reducing per-vehicle trajectory distortion during turns and improving energy efficiency.  
+- Built the RL training environment and trained the models.  
+- Implemented the formation-control algorithm on ROS and validated it in simulation.  
+
+---
+
+### **NEDO Challenge for BLUE ECONOMY**  
+**April 2026 – May 2026 | Maki Lab, The University of Tokyo × Blue Arch**  
+
+Open-sea AUV self-localization task (team of 5) targeting 100 m of straight-line travel in real waters.
+
+#### Key Contributions:  
+- Helped implement USV–AUV acoustic positioning and particle-filter dead-reckoning.  
+- Ran AUV tank experiments and open-sea deployment tests.  
+- Result: selected and completed.  
+
+---
+
+### **Underwater Structure Defect Detection**  
+**July 2023 | Underwater Intelligent Optics Lab, Zhejiang University**  
+
+#### Key Contributions:  
+- Processed point-cloud data for underwater structure defect detection and studied point-cloud analysis algorithms.  

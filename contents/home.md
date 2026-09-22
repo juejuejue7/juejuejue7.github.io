@@ -1,20 +1,16 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GitHub](https://img.shields.io/badge/GitHub-juejuejue7-blue?logo=github)](https://github.com/juejuejue7)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm a Master's student in the Maki Laboratory, Institute of Industrial Science, The University of Tokyo, affiliated with JAMSTEC. My research focuses on heterogeneous multi-AUV cooperative survey systems for detecting sparse discrete targets on the deep seafloor, such as hydrothermal vents and shipwrecks. I am broadly interested in navigation, planning, and control for underwater and mobile robots.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>jinyutong6362@gmail.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**The University of Tokyo**, M.S. (in progress), Maki Lab, IIS (2025 – 2027 expected)  
+• Research: heterogeneous multi-AUV cooperative survey for deep-sea sparse discrete target detection  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Zhejiang University**, B.Eng. in Ocean Engineering and Technology (2020 – 2024)  
+• GPA: 3.81 / 4.0 (major-course GPA 3.94 / 4.0)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Marine robotics, underwater navigation and path planning, multi-robot cooperative systems, reinforcement learning for robot motion and control.
