@@ -3,8 +3,7 @@
 I'm a Master's student in the Maki Laboratory, Institute of Industrial Science, The University of Tokyo. My research focuses on multi vehicle cooperative survey systems for detecting sparse discrete targets on the deep seafloor, such as hydrothermal vents and shipwrecks.
 
 #### Email  
-<code>jinyutong6362@gmail.com</code>
-
+<code>jinyutong6362@gmail.com</code><br>
 <code>jytong@iis.u-tokyo.ac.jp</code>
 
 #### Education  
